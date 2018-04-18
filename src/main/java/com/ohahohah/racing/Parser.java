@@ -1,4 +1,4 @@
-package com.ohahohah.step02;
+package com.ohahohah.racing;
 
 import static com.google.common.base.Strings.isNullOrEmpty;
 import com.google.common.base.CharMatcher;

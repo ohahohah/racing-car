@@ -1,7 +1,6 @@
-package com.ohahohah.step02;
+package com.ohahohah.racing;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 

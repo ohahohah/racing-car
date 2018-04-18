@@ -1,4 +1,4 @@
-package com.ohahohah.step02;
+package com.ohahohah.racing;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

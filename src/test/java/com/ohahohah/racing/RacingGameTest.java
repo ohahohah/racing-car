@@ -1,9 +1,8 @@
-package com.ohahohah.step02;
+package com.ohahohah.racing;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
 import java.util.Arrays;
-import java.util.List;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

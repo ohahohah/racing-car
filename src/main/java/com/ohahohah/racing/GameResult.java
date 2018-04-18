@@ -1,4 +1,4 @@
-package com.ohahohah.step02;
+package com.ohahohah.racing;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package com.ohahohah.step02;
+package com.ohahohah.racing;
 
 import java.util.List;
 import java.util.Scanner;
